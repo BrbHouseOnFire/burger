@@ -27,7 +27,7 @@ $(function() {
 
     var newburger = {
       name: $("#ca").val().trim(),
-      sleepy: $("[name=sleepy]:checked").val().trim()
+      sleepy: 0
     };
 
     // Send the POST request.
