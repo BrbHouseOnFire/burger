@@ -8,3 +8,4 @@ A Model-View-Controller based around creating and consuming digital burgers.
 A single web-page app which allows a user to:
 * Add burgers
 * Consume burgers
+* View consumed and non-consumed burger lists
